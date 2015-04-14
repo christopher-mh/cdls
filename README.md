@@ -21,7 +21,7 @@ Go to folder /web/loremipsum.42/:
 1: EricWoolfson
 2: AndrewPowell
 3: DavidGilmour
-Choose a folder: 0
+Choose a folder: Ala
 
 Going to /web/loremipsum.42/AlanParsons/
 /web/loremipsum.42/AlanParsons/ $
